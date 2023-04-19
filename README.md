@@ -116,11 +116,8 @@ Execute the program
 </body>
 </html>
 ```
-
-
-# OUPUT
+# OUTPUT
 ![output](https://user-images.githubusercontent.com/122762773/233008979-be17a2cf-ac83-43ab-9593-ac87e1418169.png)
-
 
 # HTML VALIDATOR
 ![valid](https://user-images.githubusercontent.com/122762773/233009077-5fdfc3ae-85d0-4ec2-bc48-574e7cc92fb3.png)
