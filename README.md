@@ -119,11 +119,11 @@ Execute the program
 
 
 # OUPUT
-![OUTPUT](http://gopika.student.saveetha.in:8000/static/images/output.png?raw=true)
+![output](https://user-images.githubusercontent.com/122762773/233008979-be17a2cf-ac83-43ab-9593-ac87e1418169.png)
+
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://gopika.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![valid](https://user-images.githubusercontent.com/122762773/233009077-5fdfc3ae-85d0-4ec2-bc48-574e7cc92fb3.png)
 
 # RESULT
-
 The program for creating slot timetable is completed successfully
